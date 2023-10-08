@@ -1,0 +1,10 @@
+export {default as Follow1 } from "./follow1.jpeg";
+export {default as Follow2 } from "./follow2.jpeg";
+export {default as Follow3 } from "./follow3.jpeg";
+export {default as Follow4 } from "./follow4.jpeg";
+export {default as Follow5 } from "./follow5.jpeg";
+export {default as Follow6 } from "./follow6.jpeg";
+export {default as Follow7 } from "./follow7.jpeg";
+export {default as Follow8 } from "./follow8.jpeg";
+export {default as Follow9 } from "./follow9.jpeg";
+export {default as Follow10 } from "./follow10.jpeg";
